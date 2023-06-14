@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalebAduu
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning Machine learning, Computer Vision, Deep Learning, and NLP.
 - 💞️ I’m looking to collaborate on machine learning projects 
 <!---
 CalebAduu/CalebAduu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
