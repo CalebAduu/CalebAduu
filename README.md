@@ -1,3 +1,4 @@
+- Researcher & Programmer! Learning AI (Artificial Intelligence), Machine Learning, and Deep Learning to become Data Scientist. I'm Certified Python Developer, Machine Learning engineer
 - 👋 Hi, I’m @CalebAduu
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Machine learning, Computer Vision, Deep Learning, and NLP.
